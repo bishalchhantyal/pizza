@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  firebase:{
+   firebase: {
     apiKey: "AIzaSyDutiYQJNBoKxoTdh1qM-fLC1jj6SYAioY",
     authDomain: "pizza-187a7.firebaseapp.com",
     databaseURL: "https://pizza-187a7.firebaseio.com",
